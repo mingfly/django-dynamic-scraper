@@ -14,3 +14,4 @@ MANIFEST
 dist
 build
 docs/_build
+.idea
